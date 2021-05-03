@@ -8,6 +8,11 @@ body {
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    padding-bottom: 15px;
+}
+#traffic {
+  margin-left: 2%;
+  width: 70%;
 }
 
 /*title and subtile style*/

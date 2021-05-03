@@ -3,11 +3,12 @@ html {
     height: 100%;
 }
 body {
-	background-image: linear-gradient(#9CB097, #A9A25C);
+	background-image: linear-gradient(#9CB097, #546D69);
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    padding-bottom: 10%;
 }
 
 /*title and subtile style*/
@@ -84,3 +85,9 @@ font-style: normal;
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #9CB097;}
+
+/*Map Details*/
+#map{
+  width: 85%;
+  padding-left: 3%;
+}
